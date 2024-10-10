@@ -1,7 +1,7 @@
 ---
-title: "足迹"
-description: "hi"
-cover: "https://static.fatesinger.com/2024/05/6wcuefk2nt6ufu5e.jpg"
+title: "自由行 | Travel"
+description: "Hi，Unknown World"
+cover: "https://img.010316.xyz/usr/hugo/IMG_20201107_220601.jpg"
 layout: "travel"
 slug: "travel"
 ---
