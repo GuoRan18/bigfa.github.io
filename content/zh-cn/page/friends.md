@@ -10,12 +10,7 @@ menu:
         weight: 10
 links:
     [
-        {
-            "title": "Fatesinger",
-            "link": "https://fatesinger.com",
-            "description": "about me",
-            "cover": "https://static.fatesinger.com/2021/03/npbmdu72xozbul3w.jpg!/both/200x200",
-        }, {
+         {
             "title": "林海草原",
             "link": "https://lhcy.org/",
             "cover": "https://imgur.lzmun.com/picgo/20190121223407.png_avatar",
