@@ -6,47 +6,6 @@ theme = 'farallon'
 
 
 [langusges]
-[languages.en]
-  title = "北海轻歌-记录一个城市中的一个人."
-  languageName = "English"
-  contentDir = 'content/en'
-  [languages.en.menu]
-    [[languages.en.menu.main]]
-    name="Gears"
-    url="/en/gears/"
-    weight="2"
-    [[languages.en.menu.main]]
-    name="Movies"
-    url="/en/movies/"
-    weight="1"
-    [[languages.en.menu.main]]
-    name="Categories"
-    url="/en/cats/"
-    weight="1"
-    [[languages.en.menu.main]]
-    name="Tags"
-    url="/en/topics/"
-    weight="1"
-    [[languages.en.menu.main]]
-    name="About"
-    url="/en/about/"
-    weight="3"
-    [[languages.en.menu.main]]
-    name="Stories"
-    url="/en/archive/"
-    weight="1"
-  [languages.en.permalinks]
-    [languages.en.permalinks.section]
-      post = '/archive'
-    [languages.en.permalinks.page]
-      post = '/story/:slugorfilename/'
-      page = '/:slugorfilename/'  
-    [languages.en.permalinks.term]
-      tags = '/tag/:slug/'
-      categories = '/category/:slug/'
-    [languages.en.permalinks.taxonomy]
-      tags = '/topics/'
-      categories = '/cats/'
 
 [languages.zh-cn]
   title = "北海轻歌-记录一个城市中的一个人."
@@ -54,8 +13,8 @@ theme = 'farallon'
   contentDir = 'content/zh-cn'
   [languages.zh-cn.menu]
     [[languages.zh-cn.menu.main]]
-    name="设备"
-    url="/gears/"
+    name="自由行"
+    url="category/travel/"
     weight="1"
     [[languages.zh-cn.menu.main]]
     name="书影音"
