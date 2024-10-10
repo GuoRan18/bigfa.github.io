@@ -1,6 +1,7 @@
 ---
 title: 这都什么事
 date: 2020-03-03
+categories: ["zine"] 
 tags: [日常]
 published: true
 hideInList: false

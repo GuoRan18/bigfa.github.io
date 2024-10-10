@@ -1,6 +1,7 @@
 ---
 title:  明天就是国庆节了
 date: 2019-09-30 09:20:10+0800
+categories: ["zine"] 
 tags: [日常]
 published: true
 hideInList: false

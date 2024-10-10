@@ -1,6 +1,7 @@
 ---
 title:  当了一次小偷
 date: 2019-11-21
+categories: ["zine"] 
 tags: [日常]
 published: true
 hideInList: false

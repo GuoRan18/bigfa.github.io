@@ -1,6 +1,7 @@
 ---
 title: 五月日记
 date: 2021-06-07 15:51:39
+categories: ["zine"] 
 tags: [日常]
 published: true
 hideInList: false

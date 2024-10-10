@@ -1,6 +1,7 @@
 ---
 title: 小人物的声音
 date: 2020-09-18 11:12:27
+categories: ["zine"] 
 tags: [日常]
 published: true
 hideInList: false

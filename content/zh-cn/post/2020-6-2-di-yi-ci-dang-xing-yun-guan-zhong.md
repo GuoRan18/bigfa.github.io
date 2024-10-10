@@ -1,6 +1,7 @@
 ---
 title: 第一次当幸运用户
 date: 2020-06-02
+categories: ["zine"] 
 tags: [日常]
 published: true
 hideInList: false

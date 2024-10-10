@@ -2,6 +2,7 @@
 title: 博客换到vercel
 date: 2020-11-27 16:17:24
 tags: [折腾]
+categories: ["toss"] 
 published: true
 hideInList: false
 isTop: false

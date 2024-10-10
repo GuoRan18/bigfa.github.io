@@ -1,6 +1,7 @@
 ---
 title:  双十一剁手
 date: 2019-11-11
+categories: ["zine"] 
 tags: [日常]
 published: true
 hideInList: false

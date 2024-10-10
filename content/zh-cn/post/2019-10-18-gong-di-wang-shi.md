@@ -1,6 +1,7 @@
 ---
 title:  《工地往事》
 date: 2019-10-18 
+categories: ["zine"] 
 tags: [日常]
 published: true
 hideInList: false

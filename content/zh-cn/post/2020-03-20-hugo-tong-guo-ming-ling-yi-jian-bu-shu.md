@@ -2,6 +2,7 @@
 title: Hugo通过命令一键部署
 date: 2020-03-20
 tags: [折腾]
+categories: ["toss"] 
 published: true
 hideInList: false
 isTop: false

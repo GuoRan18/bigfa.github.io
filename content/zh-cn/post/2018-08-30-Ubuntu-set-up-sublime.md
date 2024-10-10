@@ -1,6 +1,7 @@
 ---
 title: Ubuntu调教日记之Sublime Text3
 date: 2018-08-30 09:20:10+0800
+categories: ["toss"] 
 tags: [折腾]
 published: true
 hideInList: false

@@ -2,6 +2,7 @@
 title: typora写作新姿势之PicGo
 date: 2020-03-23
 tags: [折腾]
+categories: ["toss"] 
 published: true
 hideInList: false
 isTop: false
@@ -19,7 +20,7 @@ isTop: false
 
   2.然后PicGo也需要配置一下，因为我用的又拍云储存，所以只是配置了一个又拍云。
 
-![image-20200320160702865](https://img.010316.xyz/usr/hugo/image-20200320160702865.png)
+![](https://img.010316.xyz/usr/hugo/image-20200320160702865.png)
 
 ### 这样就好了。
 

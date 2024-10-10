@@ -1,6 +1,7 @@
 ---
 title: 关于域名编号标注
 date: 2020-03-13
+categories: ["zine"] 
 tags: [日常]
 published: true
 hideInList: false

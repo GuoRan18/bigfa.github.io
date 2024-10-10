@@ -1,6 +1,6 @@
 ---
-title: "设备"
-description: "富士相机和镜头"
-cover: "https://static.fatesinger.com/2021/12/vhp6eou5x2wqh2zy.jpg"
-slug: "gears"
+title: "折腾 | Toss"
+description: "博客折腾之路"
+cover: "https://img.010316.xyz//usr/hugo/2022/image-20230719104942156.png"
+slug: "toss"
 ---

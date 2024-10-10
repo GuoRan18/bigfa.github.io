@@ -1,6 +1,7 @@
 ---
 title:  一次失败的购物日记
 date: 2020-01-10
+categories: ["zine"] 
 tags: [日常]
 published: true
 hideInList: false

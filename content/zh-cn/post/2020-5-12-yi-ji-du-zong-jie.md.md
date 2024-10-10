@@ -1,6 +1,7 @@
 ---
 title: 2020年第一季度总结
 date: 2020-05-12
+categories: ["zine"] 
 tags: [日常]
 published: true
 hideInList: false

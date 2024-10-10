@@ -1,6 +1,7 @@
 ---
 title: 10月没在路上
 date: 2020-10-09 16:25:50
+categories: ["zine"] 
 tags: [日常]
 published: true
 hideInList: false

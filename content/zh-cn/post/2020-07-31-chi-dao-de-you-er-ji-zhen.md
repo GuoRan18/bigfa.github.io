@@ -1,6 +1,7 @@
 ---
 title: 迟到的幼儿急疹
 date: 2020-07-31 15:20:18
+categories: ["zine"] 
 tags: [日常]
 published: true
 hideInList: false

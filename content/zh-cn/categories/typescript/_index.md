@@ -1,5 +1,0 @@
----
-title: "Typescript"
-description: 
-cover: 
----

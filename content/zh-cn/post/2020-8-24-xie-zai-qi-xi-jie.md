@@ -1,6 +1,7 @@
 ---
 title: 写在七夕节
 date: 2020-08-24 17:02:36
+categories: ["zine"] 
 tags: [日常]
 published: true
 hideInList: false

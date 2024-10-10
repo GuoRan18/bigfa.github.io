@@ -1,6 +1,7 @@
 ---
 title:  年终记录
 date: 2019-12-31
+categories: ["zine"] 
 tags: [日常]
 published: true
 hideInList: false

@@ -1,6 +1,7 @@
 ---
 title: 这个夏天，我愿你没来过
 date: 2021-08-16 10:57:32
+categories: ["zine"] 
 tags: [日常]
 published: true
 hideInList: false
