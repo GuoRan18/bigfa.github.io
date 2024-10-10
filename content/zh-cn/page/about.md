@@ -38,9 +38,10 @@ menu:
 
 ### 我的朋友
 
- [friends](https://acbx.eu.org/friends/) 
+- [friends](https://acbx.eu.org/friends/) 
 
-- 失联人员:[北海的猫猫] [南歌鹿人] [记实小屋] [zmmio] [Mr.Bean] [XUHENG] [樗顾] [云帆沧海] *纪录于2024/08/22*
+- 失联人员:[北海的猫猫] [南歌鹿人] [记实小屋] [zmmio] [Mr.Bean] [XUHENG] [樗顾] [云帆沧海] 
+*更新于2024/08/22*
 --- 
 
 ![](https://img.010316.xyz/usr/uploads/2019/03/waiting.jpg)
