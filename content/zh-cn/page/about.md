@@ -40,8 +40,7 @@ menu:
 
 - [Friends](https://acbx.eu.org/friends/) 
 
-- 失联人员:[北海的猫猫] [南歌鹿人] [记实小屋] [zmmio] [Mr.Bean] [XUHENG] [樗顾] [云帆沧海] 
-                                                                     *更新于2024/08/22*
+ 失联人员:[北海的猫猫] [南歌鹿人] [记实小屋] [zmmio] [Mr.Bean] [XUHENG] [樗顾] [云帆沧海] *更新于2024/08/22*
 
 --- 
 
