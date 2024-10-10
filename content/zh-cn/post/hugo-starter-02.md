@@ -7,6 +7,7 @@ date: 2024-05-29T17:02:35+08:00
 cover:
 hidden: false
 comments: true
+draft: true
 ---
 
 本文主要介绍 Hugo 内容文件管理和页面 URL 设置，建议搭配我的[GitHub Pages](https://github.com/bigfa/bigfa.github.io)项目使用。

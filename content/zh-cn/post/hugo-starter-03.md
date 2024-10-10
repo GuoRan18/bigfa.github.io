@@ -7,6 +7,7 @@ date: 2024-05-29T17:04:24+08:00
 cover:
 hidden: false
 comments: true
+draft: true
 ---
 
 本文主要介绍原型（archetypes）和 markdown 文件的使用方法。

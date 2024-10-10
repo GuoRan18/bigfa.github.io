@@ -19,19 +19,15 @@ theme = 'farallon'
     [[languages.zh-cn.menu.main]]
     name="书影音"
     url="/movies/"
-    weight="1"
+    weight="3"
     [[languages.zh-cn.menu.main]]
-    name="分类"
-    url="/cats/"
-    weight="1"
+    name="生活记"
+    url="/cats/zine/"
+    weight="2"
     [[languages.zh-cn.menu.main]]
-    name="标签"
-    url="/topics/"
-    weight="1"
-    [[languages.zh-cn.menu.main]]
-    name="文章"
+    name="归档页"
     url="/archive/"
-    weight="1"
+    weight="5"
 
 [taxonomies]
   category = 'categories'

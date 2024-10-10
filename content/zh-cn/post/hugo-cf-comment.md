@@ -7,6 +7,7 @@ date: 2024-06-20T19:11:24+08:00
 cover:
 hidden: false
 comments: true
+draft: true
 ---
 
 [项目地址](https://github.com/bigfa/hugo-cf-worker)，已经和点赞评论聚合为一个项目。

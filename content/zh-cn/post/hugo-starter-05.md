@@ -7,6 +7,7 @@ date: 2024-06-27T10:11:35+08:00
 cover:
 hidden: false
 comments: true
+draft: true
 ---
 
 本文主要讲解 hugo 目录结构和主题目录结构的基本逻辑。Hugo 中有一些概念如 UnionFS,Hugo pipes 对普通用户来说很难理解，我这里尽量用白话来解释，可能不是很准确，但能让你大致理解 hugo 的文件逻辑。

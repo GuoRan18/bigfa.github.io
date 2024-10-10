@@ -7,6 +7,7 @@ date: 2024-05-29T17:05:06+08:00
 cover:
 hidden: false
 comments: true
+draft: true
 ---
 
 本文主要讲解 hugo 的部署方法。
