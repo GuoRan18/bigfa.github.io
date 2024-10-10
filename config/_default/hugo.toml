@@ -14,7 +14,7 @@ theme = 'farallon'
   [languages.zh-cn.menu]
     [[languages.zh-cn.menu.main]]
     name="自由行"
-    url="category/travel/"
+    url="/category/travel/"
     weight="1"
     [[languages.zh-cn.menu.main]]
     name="书影音"
