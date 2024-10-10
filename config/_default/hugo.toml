@@ -22,7 +22,7 @@ theme = 'farallon'
     weight="3"
     [[languages.zh-cn.menu.main]]
     name="生活记"
-    url="/cats/zine/"
+    url="/category/zine/"
     weight="2"
     [[languages.zh-cn.menu.main]]
     name="归档页"
