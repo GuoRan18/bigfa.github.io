@@ -2,6 +2,7 @@
 title: 2020年11月7日打卡植物园
 date: 2020-11-11 11:09:19
 tags: [游记]
+categories: ["travel"]
 published: true
 hideInList: false
 isTop: false
