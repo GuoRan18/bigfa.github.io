@@ -1,4 +1,4 @@
-baseURL = 'https://bigfa.github.io/'
+baseURL = 'https://acbx.eu.org/'
 languageCode = 'zh-cn'
 timezone = 'Asia/Shanghai'
 defaultContentLanguage = 'zh-cn'
@@ -7,7 +7,7 @@ theme = 'farallon'
 
 [langusges]
 [languages.en]
-  title = "Untitled"
+  title = "北海轻歌-记录一个城市中的一个人."
   languageName = "English"
   contentDir = 'content/en'
   [languages.en.menu]
@@ -49,7 +49,7 @@ theme = 'farallon'
       categories = '/cats/'
 
 [languages.zh-cn]
-  title = "Untitled"
+  title = "北海轻歌-记录一个城市中的一个人."
   languageName = "简体中文"
   contentDir = 'content/zh-cn'
   [languages.zh-cn.menu]
