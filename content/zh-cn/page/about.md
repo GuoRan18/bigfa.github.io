@@ -28,7 +28,8 @@ menu:
 ### 博客程序
 
 - Hugo：<https://gohugo.io/>
-- 本站源码：<https://github.com/lmm214/immmmm>
+- 本站源码：<https://github.com/bigfa/hugo-theme-farallon>
+- 主题修改记录：<https://www.4op.top/farallon/>
 
 
 ### 实验室
