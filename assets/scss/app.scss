@@ -10,12 +10,12 @@ html {
 
 body {
     letter-spacing: 0;
+    text-align: justify;
     font: {
         weight: 400;
         style: normal;
         family: "LXGW WenKai Screen", "微软雅黑", "Microsoft YaHei", "Georgia", "STZhongsong", serif;
         size: 16px;
-        text-align: justify;
     }
     text-rendering: optimizeLegibility;
     -webkit-font-smoothing: antialiased;
@@ -28,18 +28,20 @@ body {
 
 h1,
 h2,
-h3 {    font-size: 20px;
-    line-height: 1em;
-    border-left: 5px solid #ef7c7c;
-    font-weight: bold;
-    padding: 0px 0 1px 5px;
-    margin: 10px 0
-}
+h3,
 h4,
 h5 {
     margin-top: 0;
     margin-bottom: 0;
     font-weight: 400;
+}
+
+h3{    font-size: 20px;
+    line-height: 1em;
+    border-left: 5px solid #ef7c7c;
+    font-weight: bold;
+    padding: 0px 0 1px 5px;
+    margin: 10px 0
 }
 
 ol,
