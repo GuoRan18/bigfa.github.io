@@ -18,6 +18,6 @@ github = 'https://github.com/GuoRan18'
 footer_sns = true
 post_like = true
 post_view = true
-actionDomain = 'http://localhost:3000/api/'
+actionDomain = 'https://v.uuuz.eu.org/'
 dbAPIBase = 'https://node.wpista.com/'
 zoom= true
