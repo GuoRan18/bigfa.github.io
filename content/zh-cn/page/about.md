@@ -7,6 +7,7 @@ menu:
     main:
         name: 关于
         weight: 10
+comments: true
 ---
 
 ### 关于我
