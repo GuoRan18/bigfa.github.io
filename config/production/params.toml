@@ -18,6 +18,6 @@ github = 'https://github.com/GuoRan18'
 footer_sns = true
 post_like = true
 post_view = true
-actionDomain = 'https://twikoo.010316.xyz:2018/'
+actionDomain = 'https://cc.010316.xyz:2018/'
 dbAPIBase = 'https://node.wpista.com/'
 zoom= true
